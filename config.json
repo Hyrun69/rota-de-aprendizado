@@ -1,0 +1,12 @@
+{
+"categorias": {
+"python": ["python", "pip", "django", "flask", "pandas"],
+"web": ["html", "css", "react", "typescript", "javascript"],
+"redes": ["tcp", "ip", "router", "dns", "rede"],
+"matematica": ["algebra", "calculo", "geometria", "estatistica"],
+"sistemas": ["linux", "windows", "terminal", "bash"]
+},
+"extensoes_aceites": [".txt", ".md", ".pdf"],
+"pasta_entrada": "entrada",
+"pasta_saida": "organizados"
+}
